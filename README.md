@@ -13,9 +13,9 @@ Follow these steps to make it work:
 
 3- Launch Xcode on your Mac and open the newsFeed project.
 
-3- Edit FeedViewController.m and replace [YOUR_NYT_API_KEY] and [YOUR_STREAMDATA_APP_TOKEN] with the appropriate keys.
+4- Edit FeedViewController.m and replace [YOUR_NYT_API_KEY] and [YOUR_STREAMDATA_APP_TOKEN] with the appropriate keys.
 
-4- Save and run in the iOS Simulator or on your iPhone.
+5- Save and run in the iOS Simulator or on your iPhone.
 
 You are done! The app should build and run, and the initial news feed tableView displayed on your device. 
 
